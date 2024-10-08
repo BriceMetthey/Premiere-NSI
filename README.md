@@ -46,4 +46,6 @@
 
 + :pencil2: [Suite d'exercices n°2 (Capytale) ](https://capytale2.ac-paris.fr/web/c/f8dc-4210705)
 
++ + :heavy_check_mark: Correction de la suite d'exercices n°2
+
 
