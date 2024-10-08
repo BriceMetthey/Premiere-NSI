@@ -2,7 +2,7 @@
 
 ## Sequence 1 : Constructions élémentaires
 
-### Arithmétique, variables, instructions
+### 1.Arithmétique, variables, instructions
 
 + :books: Le cours
 
@@ -12,7 +12,19 @@
 
 + :heavy_check_mark: Correction des exercices
   
-### Boucles_for
+### 2.Les boucles for
+
++ :books: Le cours
+
++ :world_map: La carte mentale
+
++ :pencil2: Exercices
+
++ :heavy_check_mark: Correction des exercices
+
++ :pencil2: Révisions
+  
+### 3.Comparaisons
 
 + :books: Le cours
 
@@ -22,17 +34,7 @@
 
 + :heavy_check_mark: Correction des exercices
   
-### Comparaisons
-
-+ :books: Le cours
-
-+ :world_map: La carte mentale
-
-+ :pencil2: Exercices
-
-+ :heavy_check_mark: Correction des exercices
-  
-### Les fonctions
+### 4.Les fonctions
 
 + :books: [Le cours](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Cours.pdf)
 
