@@ -4,17 +4,34 @@
 
 ### Arithmétique, variables, instructions
 
-+ :books: [Le cours]()
++ :books: Le cours
 
 + :world_map: La carte mentale
 
-+ :pencil2: [Exercices]()
++ :pencil2: Exercices
 
-+ :heavy_check_mark: [Correction des exercices]()
++ :heavy_check_mark: Correction des exercices
   
 ### Boucles_for
+
++ :books: Le cours
+
++ :world_map: La carte mentale
+
++ :pencil2: Exercices
+
++ :heavy_check_mark: Correction des exercices
+  
 ### Comparaisons
 
++ :books: Le cours
+
++ :world_map: La carte mentale
+
++ :pencil2: Exercices
+
++ :heavy_check_mark: Correction des exercices
+  
 ### Les fonctions
 
 + :books: [Le cours](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Cours.pdf)
