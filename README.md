@@ -1,5 +1,11 @@
 # Site pour les premières NSI
 
+## Divers
+
++ [Processus de contrôle continu](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Divers/Controle_Continu.pdf)
+	
++ [Synthèse du programme de première NSI](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Divers/Synth%C3%A8se_programme_premiere_NSI.pdf)
+
 ## Sequence 1 : Constructions élémentaires
 
 ### 1.Arithmétique, variables, instructions
