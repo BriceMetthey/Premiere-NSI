@@ -19,7 +19,6 @@
 
 + :books: [Le cours](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Cours.pdf)
 + 📚 [Le cours complété](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Cours_complet.pdf)
-
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Constructions%20%C3%A9l%C3%A9mentaires%20-%20Les%20boucles%20for.svg
 )
 + :pencil2: [Exercices](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Exercices_corrig%C3%A9s.pdf)
@@ -27,20 +26,15 @@
   
 ### 3.Comparaisons
 
-+ :books: Le cours
-
-+ :world_map: La carte mentale
-
-+ :pencil2: Exercices
++ :books: [Le cours](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/3_Comparaisons/Cours.pdf)
++ :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/3_Comparaisons/Constructions%20%C3%A9l%C3%A9mentaires%20-%20Comparaisons.svg)
++ :pencil2: [Exercices](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/3_Comparaisons/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/3_Comparaisons/Exercices_corrig%C3%A9s.pdf)
   
 ### 4.Les fonctions
 
 + :books: [Le cours](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Cours.pdf)
-
 + :world_map: La carte mentale
-
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/72de-4121685) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices_corrig%C3%A9s.pdf)
-
 + :pencil2: [Fiche d'exercices n°2 (Capytale) ](https://capytale2.ac-paris.fr/web/c/f8dc-4210705) [[Correction]]()
 
 
