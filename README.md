@@ -1,4 +1,4 @@
-# Site pour les premières NSI :computer:
+# Site pour les premières NSI
 
 ## Divers
 
