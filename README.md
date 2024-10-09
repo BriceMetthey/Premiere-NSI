@@ -17,13 +17,13 @@
   
 ### 2.Les boucles for
 
-+ :books: Le cours
++ :books: [Le cours](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Cours.pdf)
++ 📚 [Le cours complété](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Cours_complet.pdf)
 
-+ :world_map: La carte mentale
-
-+ :pencil2: Exercices
-
-+ :pencil2: Révisions
++ :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Constructions%20%C3%A9l%C3%A9mentaires%20-%20Les%20boucles%20for.svg
+)
++ :pencil2: [Exercices](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Exercices.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/Exercices_corrig%C3%A9s.pdf)
++ :pencil2: [Révisions](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/2_Boucles_for/R%C3%A9visions.pdf)
   
 ### 3.Comparaisons
 
