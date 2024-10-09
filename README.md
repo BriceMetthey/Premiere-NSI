@@ -1,4 +1,4 @@
-# Site pour les premières NSI
+# Site pour les premières NSI :computer:
 
 ## Divers
 
@@ -46,12 +46,8 @@
 
 + :world_map: La carte mentale
 
-+ :pencil2: [Suite d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/72de-4121685)
++ :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/72de-4121685) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices_corrig%C3%A9s.pdf)
 
-+ :heavy_check_mark: [Correction de la suite d'exercices n°1](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices_corrig%C3%A9s.pdf)
-
-+ :pencil2: [Suite d'exercices n°2 (Capytale) ](https://capytale2.ac-paris.fr/web/c/f8dc-4210705)
-
-+ :heavy_check_mark: Correction de la suite d'exercices n°2
++ :pencil2: [Fiche d'exercices n°2 (Capytale) ](https://capytale2.ac-paris.fr/web/c/f8dc-4210705) [[Correction]]()
 
 
