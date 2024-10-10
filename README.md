@@ -41,4 +41,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 ### 5. Les tableaux
 
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/2336-4265077)
-+ :pencil2: [Fiche d'exercices n°1 (Capytale) ]() [[Correction]]()
++ :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/df63-4265224) [[Correction]]()
