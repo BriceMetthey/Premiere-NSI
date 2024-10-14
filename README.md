@@ -48,3 +48,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 ### 6. Les boucles while
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/4107-4311316)
 + :world_map: La carte mentale
++ :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/c37a-4311439)
