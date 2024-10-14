@@ -43,3 +43,6 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/2336-4265077)
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/df63-4265224) [[Correction]]()
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/c23d-4311060) [[Correction]]()
+
+### 6. Les boucles while
++ :books: [Le cours]()
