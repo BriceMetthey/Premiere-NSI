@@ -42,7 +42,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/2336-4265077)
 + :world_map: La carte mentale
-+ :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/df63-4265224) [[Correction]]()
++ :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/df63-4265224) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Fiche_Exercices_1_Correction.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/c23d-4311060) [[Correction]]()
 
 ### 6. Les boucles while
