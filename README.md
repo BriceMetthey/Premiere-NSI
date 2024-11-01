@@ -53,4 +53,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 ### 7.Evaluation
 
-+ :pencil2: [Exercices pour se préparer à l'évaluation]()  (Seront travaillés en classe le mardi 5 Novembre - Ne pas le faire à l'avance...)
++ :pencil2: [Exercices pour se préparer à l'évaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Pr%C3%A9paration_%C3%A9valuation_1.pdf)  (Ne pas le faire à l'avance... Sera fait le mardi 5 novembre en séance )
