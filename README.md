@@ -50,3 +50,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :world_map: La carte mentale
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/c37a-4311439) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_1_Correction.pdf)
 + ✏️ [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/89e4-4346347) [[Correction exercice n°1 et n°2]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_2_Correction-1-2.pdf)
+
+### 7.Evaluation
+
++ :pencil2: [Exercices pour se préparer à l'évaluation]()  (Seront travaillés en classe le mardi 5 Novembre - Ne pas le faire à l'avance...)
