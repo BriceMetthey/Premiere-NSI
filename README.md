@@ -37,7 +37,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :world_map: La carte mentale
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/72de-4121685) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale) ](https://capytale2.ac-paris.fr/web/c/f8dc-4210705) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices-suite__corrig%C3%A9s.pdf)
-+ :dart: [Sketchnote](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Sketchnote.pdf)
++ :dart: [Sketchnote](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Sketchnote.pdf) ⚠️ Nouveau !
 
 ### 5. Les tableaux
 
@@ -45,6 +45,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :world_map: La carte mentale
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/df63-4265224) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Fiche_Exercices_1_Correction.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/c23d-4311060) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Fiche_Exercices_2_Correction.pdf)
++ :dart: [Sketchnote]() ⚠️ Nouveau !
 
 ### 6. Les boucles while
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/4107-4311316)
