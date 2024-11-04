@@ -34,7 +34,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 ### 4.Les fonctions
 
 + :books: [Le cours](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Cours.pdf)
-+ :world_map: La carte mentale
++ :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Constructions%20%C3%A9l%C3%A9mentaires%20-%20Les%20fonctions.svg)
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/72de-4121685) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale) ](https://capytale2.ac-paris.fr/web/c/f8dc-4210705) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices-suite__corrig%C3%A9s.pdf)
 + :dart: [Sketchnote](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Sketchnote.pdf) ⚠️ Nouveau !
