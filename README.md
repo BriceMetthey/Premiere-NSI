@@ -42,7 +42,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 ### 5. Les tableaux
 
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/2336-4265077)
-+ :world_map: La carte mentale
++ :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Constructions%20%C3%A9l%C3%A9mentaires%20-%20Les%20tableaux.svg)
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/df63-4265224) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Fiche_Exercices_1_Correction.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/c23d-4311060) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Fiche_Exercices_2_Correction.pdf)
 + :dart: [Sketchnote](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Sketchnote.pdf) ⚠️ Nouveau !
