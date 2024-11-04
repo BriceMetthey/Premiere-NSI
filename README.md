@@ -49,7 +49,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 ### 6. Les boucles while
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/4107-4311316)
-+ :world_map: La carte mentale
++ :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Constructions%20%C3%A9l%C3%A9mentaires%20-%20La%20boucle%20while.svg)
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/c37a-4311439) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_1_Correction.pdf)
 + ✏️ [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/89e4-4346347) [[Correction exercice n°1 et n°2]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_2_Correction-1-2.pdf)
 
