@@ -37,7 +37,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Constructions%20%C3%A9l%C3%A9mentaires%20-%20Les%20fonctions.svg)
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/72de-4121685) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices_corrig%C3%A9s.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale) ](https://capytale2.ac-paris.fr/web/c/f8dc-4210705) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Exercices-suite__corrig%C3%A9s.pdf)
-+ :dart: [Sketchnote](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Sketchnote.pdf) ⚠️ Nouveau !
++ :dart: [Sketchnotes Fonctions](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/4_Fonctions/Sketchnote.pdf)
 
 ### 5. Les tableaux
 
@@ -45,15 +45,15 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Constructions%20%C3%A9l%C3%A9mentaires%20-%20Les%20tableaux.svg)
 + :pencil2: [Fiche d'exercices n°1 (Capytale) ](https://capytale2.ac-paris.fr/web/c/df63-4265224) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Fiche_Exercices_1_Correction.pdf)
 + :pencil2: [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/c23d-4311060) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Fiche_Exercices_2_Correction.pdf)
-+ :dart: [Sketchnote Tableaux](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Sketchnote.pdf) ⚠️ Nouveau !
-+ :dart: [Sketchnotes Slicing](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Sketchnotes_2.pdf)⚠️ Nouveau !
++ :dart: [Sketchnotes Tableaux](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Sketchnote.pdf)
++ :dart: [Sketchnotes Slicing](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/5_Tableaux/Sketchnotes_2.pdf)
 
 ### 6. Les boucles while
 + :books: [Le cours](https://capytale2.ac-paris.fr/web/c/4107-4311316)
 + :world_map: [La carte mentale](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Constructions%20%C3%A9l%C3%A9mentaires%20-%20La%20boucle%20while.svg)
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/c37a-4311439) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_1_Correction.pdf)
-+ ✏️ [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/89e4-4346347) [[Correction exercice n°1 et n°2]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_2_Correction-1-2.pdf)
++ ✏️ [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/89e4-4346347) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_2_Correction.pdf)
 
 ### 7.Evaluation
 
-+ :pencil2: [Exercices pour se préparer à l'évaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Pr%C3%A9paration_%C3%A9valuation_1.pdf)  (Ne pas le faire à l'avance... Sera fait le mardi 5 novembre en séance )
++ :pencil2: [Exercices pour se préparer à l'évaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Pr%C3%A9paration_%C3%A9valuation_1.pdf)
