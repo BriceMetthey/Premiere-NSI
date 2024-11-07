@@ -7,7 +7,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + [Processus de contrôle continu](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Divers/Controle_Continu.pdf)
 + [Synthèse du programme de première NSI](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Divers/Synth%C3%A8se_programme_premiere_NSI.pdf)
 
-## Sequence 1 : Constructions élémentaires
+## Séquence 1 : Constructions élémentaires
 
 ### 1.Arithmétique, variables, instructions
 
@@ -57,3 +57,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 ### 7.Evaluation
 
 + :pencil2: [Exercices pour se préparer à l'évaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Pr%C3%A9paration_%C3%A9valuation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Correction_pr%C3%A9paration_%C3%A9valuation_1.pdf)
+
+
+## Séquence 2 : Représentation des données
++ :books: :pencil2: [Écriture d’un entier positif dans une base]()
