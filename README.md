@@ -60,6 +60,6 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 
 ## Séquence 2 : Représentation des données
-+ :books: :pencil2: [Écriture d’un entier positif dans une base](https://capytale2.ac-paris.fr/web/c/a6b4-4500679)
++ :books: :pencil2: [Écriture d’un entier positif dans une base](https://capytale2.ac-paris.fr/web/c/a6b4-4500679) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Correction_Repr%C3%A9sentation_entiers_positifs.pdf)
 + :pencil2: [Algorithmes de passage d'une base à une autre](https://capytale2.ac-paris.fr/web/c/b33c-4527270)
 + :pencil2: [Encodage entiers relatifs](https://capytale2.ac-paris.fr/web/c/1273-4527532)
