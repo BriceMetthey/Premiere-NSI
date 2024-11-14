@@ -64,4 +64,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [Algorithmes de passage d'une base à une autre (Capytale)](https://capytale2.ac-paris.fr/web/c/b33c-4527270)
   + [[Correction decimal_vers_binaire]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/decimal_vers_binaire.py)
 + :pencil2: [Encodage entiers relatifs (Capytale)](https://capytale2.ac-paris.fr/web/c/1273-4527532)
-+ ✏️ [Additionner deux nombres binaires](https://capytale2.ac-paris.fr/web/c/42ec-4585416)
++ ✏️ [Additionner deux nombres binaires (Capytale) ](https://capytale2.ac-paris.fr/web/c/42ec-4585416)
