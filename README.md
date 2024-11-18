@@ -67,3 +67,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
   + [[Correction hexadecimal_vers_binaire]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/hexadecimal_vers_binaire.py)
 + :pencil2: [Encodage entiers relatifs (Capytale)](https://capytale2.ac-paris.fr/web/c/1273-4527532)
 + ✏️ [Additionner deux nombres binaires (Capytale) ](https://capytale2.ac-paris.fr/web/c/42ec-4585416)
++ :books: :pencil2: [Représentation approximative des nombres réels](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Format%20IEEE%20754.pdf)
