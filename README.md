@@ -70,3 +70,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + ✏️ [Additionner deux nombres binaires (Capytale) ](https://capytale2.ac-paris.fr/web/c/42ec-4585416)
   + [[Correction addition binaire]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/addition_binaire.py)
 + :books: :pencil2: [Représentation approximative des nombres réels](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Format%20IEEE%20754.pdf)
++ :books: ✏️ [La représentation d'un texte en machine](https://capytale2.ac-paris.fr/web/c/d11e-4691514)
