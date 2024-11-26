@@ -74,3 +74,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
   + [[Correction Représentation approximative des nombres réels]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Format%20IEEE%20754%20-%20Correction.pdf) :warning: Nouveau !
 + :books: ✏️ [La représentation d'un texte en machine](https://capytale2.ac-paris.fr/web/c/d11e-4691514)
   + [[Correction La représentation d'un texte en machine]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation%20du%20texte.pdf)  :warning: Nouveau !
++ :books: ✏️ [La représentation d'une image par une machine](https://capytale2.ac-paris.fr/web/c/4183-4737525)
