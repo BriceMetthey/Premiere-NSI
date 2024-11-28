@@ -57,7 +57,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 ### 7.Evaluation
 
 + :pencil2: [Exercices pour se préparer à l'évaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Pr%C3%A9paration_%C3%A9valuation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Correction_pr%C3%A9paration_%C3%A9valuation_1.pdf)
-+ :pencil2: [Evaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Evaluation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Evaluation_1%20-%20Correction.pdf) :warning: Nouveau !
++ :pencil2: [Evaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Evaluation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Evaluation_1%20-%20Correction.pdf) 
 
 
 ## Séquence 2 : Représentation des données
@@ -71,7 +71,8 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + ✏️ [Additionner deux nombres binaires (Capytale) ](https://capytale2.ac-paris.fr/web/c/42ec-4585416)
   + [[Correction addition binaire]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/addition_binaire.py)
 + :books: :pencil2: [Représentation approximative des nombres réels](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Format%20IEEE%20754.pdf)
-  + [[Correction Représentation approximative des nombres réels]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Format%20IEEE%20754%20-%20Correction.pdf) :warning: Nouveau !
+  + [[Correction Représentation approximative des nombres réels]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Format%20IEEE%20754%20-%20Correction.pdf) 
 + :books: ✏️ [La représentation d'un texte en machine](https://capytale2.ac-paris.fr/web/c/d11e-4691514)
-  + [[Correction La représentation d'un texte en machine]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation%20du%20texte.pdf)  :warning: Nouveau !
+  + [[Correction La représentation d'un texte en machine]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation%20du%20texte.pdf) 
 + :books: ✏️ [La représentation d'une image par une machine](https://capytale2.ac-paris.fr/web/c/4183-4737525)
++ ✏️ [Traitement d'images](https://capytale2.ac-paris.fr/web/c/bc15-4772763)
