@@ -75,5 +75,10 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :books: ✏️ [La représentation d'un texte en machine](https://capytale2.ac-paris.fr/web/c/d11e-4691514)
   + [[Correction La représentation d'un texte en machine]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation%20du%20texte.pdf) 
 + :books: ✏️ [La représentation d'une image par une machine](https://capytale2.ac-paris.fr/web/c/4183-4737525)
-  + [[Correction La représentation d'une image par une machine]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/La%20repr%C3%A9sentation%20d'une%20image%20par%20une%20machine.pdf) 
+  + [[Correction La représentation d'une image par une machine]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/La%20repr%C3%A9sentation%20d'une%20image%20par%20une%20machine.pdf)
+  + [[Correction Drapeau danois]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/drapeau_danois.py)
+  + [[Correction Filtre bleu]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/filtre_bleu.py)
+  + [[Correction Filtre vert]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/filtre_vert.py)
+  + [[Correction Filtre intervertir]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/filtre_intervertir.py)
+  
 + ✏️ [Traitement d'images](https://capytale2.ac-paris.fr/web/c/bc15-4772763)
