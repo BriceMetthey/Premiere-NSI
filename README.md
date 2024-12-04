@@ -7,6 +7,15 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + [Processus de contrôle continu](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Divers/Controle_Continu.pdf)
 + [Synthèse du programme de première NSI](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Divers/Synth%C3%A8se_programme_premiere_NSI.pdf)
 
+
+
+## Evaluations  :warning: Nouveau !
+
++ :hourglass_flowing_sand:[Préparation à l'évaluation n°1]() [[Correction]]()
++ :hourglass_flowing_sand:[Evaluation n°1]() [[Correction]]()
++ :hourglass_flowing_sand:[Evaluation n°2]() [[Correction]]()
+
+
 ## Séquence 1 : Constructions élémentaires
 
 ### 1.Arithmétique, variables, instructions
