@@ -96,4 +96,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
  
 ## Projet - Jeu du puissance 4
 
-+ :hourglass_flowing_sand:[Cahier des charges]()
++ :rocket: [Cahier des charges]()
