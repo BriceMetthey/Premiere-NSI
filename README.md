@@ -92,4 +92,8 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
   + Correction [filtre_vert.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/filtre_vert.py)
   + Correction [filtre_intervertir.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/filtre_intervertir.py)
 + ✏️ [Traitement d'images](https://capytale2.ac-paris.fr/web/c/bc15-4772763)
-  + Correction [negatifs.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/negatifs.py)   
+  + Correction [negatifs.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/negatifs.py)
+ 
+## Projet - Jeu du puissance 4
+
++ :hourglass_flowing_sand:[Cahier des charges]()
