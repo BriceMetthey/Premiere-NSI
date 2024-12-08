@@ -89,6 +89,9 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
   + Correction [filtre_intervertir.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/filtre_intervertir.py)
 + ✏️ [Traitement d'images](https://capytale2.ac-paris.fr/web/c/bc15-4772763)
   + Correction [negatifs.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/negatifs.py)
+  + Correction [miroir.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/miroir.py)
+  + Correction [negatif_image_en couleurs.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/negatif_image_en%20couleurs.py)
+  + Correction [transformation_couleur_noir_et_blanc.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_2_repr%C3%A9sentation_des_donn%C3%A9es/Repr%C3%A9sentation_image/transformation_couleur_noir_et_blanc.py)
  
 ## Projet - Jeu du puissance 4
 
