@@ -9,7 +9,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 
 
-## Evaluations  :warning: Nouveau !
+## Evaluations  
 
 + :hourglass_flowing_sand:[Préparation à l'évaluation n°1](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Pr%C3%A9paration_%C3%A9valuation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Correction_pr%C3%A9paration_%C3%A9valuation_1.pdf)
 + :hourglass_flowing_sand:[Evaluation n°1](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Evaluation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Evaluation_1%20-%20Correction.pdf)
@@ -63,10 +63,6 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [Fiche d'exercices n°1 (Capytale)](https://capytale2.ac-paris.fr/web/c/c37a-4311439) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_1_Correction.pdf)
 + ✏️ [Fiche d'exercices n°2 (Capytale)](https://capytale2.ac-paris.fr/web/c/89e4-4346347) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/6_Boucles_while/Fiche_Exercices_2_Correction.pdf)
 
-### 7.Evaluation
-
-+ :pencil2: [Exercices pour se préparer à l'évaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Pr%C3%A9paration_%C3%A9valuation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Correction_pr%C3%A9paration_%C3%A9valuation_1.pdf)
-+ :pencil2: [Evaluation](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Evaluation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_1_constructions_elementaires/7_Evaluation/Evaluation_1%20-%20Correction.pdf) 
 
 
 ## Séquence 2 : Représentation des données
