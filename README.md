@@ -96,3 +96,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 ## Projet - Jeu du puissance 4
 
 + :rocket: [Cahier des charges](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Projets/Projet%201%20-%20Jeu%20Puissance%204/Projet%201%20-%20Jeu%20du%20puissance%204.pdf)
++ :rocket: [Le cycle en V](https://capytale2.ac-paris.fr/web/c/a47b-4937911)
