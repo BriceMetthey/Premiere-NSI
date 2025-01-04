@@ -100,4 +100,11 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + Correction [puissance4.py](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Projets/Projet%201%20-%20Jeu%20Puissance%204/puissance4.py)🔥 Nouveau !
 
 
-## Séquence 3 : Architecture des ordinateurs
+## Séquence 3 : Architecture des ordinateurs 🔥 Nouveau !
++ :books: [L'Histoire de l'architecture des ordinateurs](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/1-Architectures%20mat.%20-%20Cours%20-%20Histoire.pdf)
++ :pencil2: [Fiche d'exercices n°1 ](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/1-Architectures%20mat.%20-%20Exos%20-%20Histoire.pdf) [[Correction]]()
++ :books: [Architectures Von Neumann & Orgnisation de la mémoire](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Cours%20-%20Von%20Neumann.pdf)
++ :pencil2: [Fiche d'exercices n°2 ](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Exos%20-%20Von%20Neumann.pdf) [[Correction]]()
++ :pencil2: [Gestion du tas](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Cours%20-%20Gestion%20du%20tas.pdf)
++ :pencil2: [Gestion du segment de pile](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Cours%20-%20Gestion%20du%20segment%20de%20pile.pdf)
++ :books: [Les composants de l'ordinateurs](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/3-Architectures%20mat.%20-%20Cours%20-%20Les%20composants.pdf)
