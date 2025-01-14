@@ -102,6 +102,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 ## Séquence 3 : Architecture des ordinateurs
 + :books: [L'Histoire de l'architecture des ordinateurs](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/1-Architectures%20mat.%20-%20Cours%20-%20Histoire.pdf)
++ :dart: [Frise chronologique](https://mon.lyceeconnecte.fr/timelinegenerator#)
 + :pencil2: [Fiche d'exercices n°1 ](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/1-Architectures%20mat.%20-%20Exos%20-%20Histoire.pdf)
 + :books: [Architectures Von Neumann & Orgnisation de la mémoire](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Cours%20-%20Von%20Neumann.pdf)
 + :pencil2: [Fiche d'exercices n°2 ](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Exos%20-%20Von%20Neumann.pdf)
@@ -111,3 +112,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :books: [L'assembleur](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Cours%20-%20Assembleur.pdf)
 + :pencil2: [L'assembleur - Exercices](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Exos%20-%20Assembleur.pdf)
 + :pencil2: [L'assembleur - TP](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Exos%202%20-%20Assembleur.pdf)
+
