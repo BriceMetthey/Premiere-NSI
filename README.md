@@ -108,7 +108,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [Fiche d'exercices n°2 ](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Exos%20-%20Von%20Neumann.pdf)
 + :pencil2: [Gestion du tas](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Cours%20-%20Gestion%20du%20tas.pdf)
 + :pencil2: [Gestion du segment de pile](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/2-Architectures%20mat.%20-%20Cours%20-%20Gestion%20du%20segment%20de%20pile.pdf)
-+ :books: [Les composants de l'ordinateurs](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/3-Architectures%20mat.%20-%20Cours%20-%20Les%20composants.pdf)
++ :books: [Les composants de l'ordinateur](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/3-Architectures%20mat.%20-%20Cours%20-%20Les%20composants.pdf)
 + :books: [L'assembleur](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Cours%20-%20Assembleur.pdf)
 + :pencil2: [L'assembleur - Exercices](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Exos%20-%20Assembleur.pdf)
 + :pencil2: [L'assembleur - TP](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Exos%202%20-%20Assembleur.pdf)
