@@ -114,4 +114,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [L'assembleur - TP](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Exos%202%20-%20Assembleur.pdf)
 
 ## Séquence 4
-+ :books: [Circuits_et_logique_booléenne](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_4_Circuits_et_logique_bool%C3%A9enne/Circuits_et_logique_bool%C3%A9enne.pdf)
++ :books: [Circuits_et_logique_booléenne](https://capytale2.ac-paris.fr/web/c/b397-5406645)
