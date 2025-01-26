@@ -115,4 +115,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 ## Séquence 4
 + :books: [Circuits_et_logique_booléenne](https://capytale2.ac-paris.fr/web/c/b397-5406645)
-+ pencil2: [Circuits et logique booléenne](https://capytale2.ac-paris.fr/web/c/b52a-5433450)[[Correction]]()
++ :pencil2: [Circuits et logique booléenne](https://capytale2.ac-paris.fr/web/c/b52a-5433450)[[Correction]]()
