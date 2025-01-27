@@ -118,3 +118,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [Circuits et logique booléenne](https://capytale2.ac-paris.fr/web/c/b52a-5433450) [[Correction]]()
 + :pencil2: [Un décodeur n bits](https://capytale2.ac-paris.fr/web/c/175d-5456718) [[Correction]]()
 + :pencil2: [Un demi-additionneur](https://capytale2.ac-paris.fr/web/c/e899-5456840) [[Correction]]()
++ :pencil2: [Un additionneur 1 bit complet](https://capytale2.ac-paris.fr/web/c/6269-5456968) [[Correction]]()
