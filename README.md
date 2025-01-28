@@ -113,7 +113,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [L'assembleur - Exercices](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Exos%20-%20Assembleur.pdf)
 + :pencil2: [L'assembleur - TP](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Sequence_3_Architecture%20des%20ordinateurs/4-Architectures%20mat.%20-%20Exos%202%20-%20Assembleur.pdf)
 
-## Séquence 4
+## Séquence 4 : Circuits et logique booléenne
 + :books: [Circuits_et_logique_booléenne](https://capytale2.ac-paris.fr/web/c/5956-5433844)
 + :pencil2: [Circuits et logique booléenne](https://capytale2.ac-paris.fr/web/c/b41c-5476024) [[Correction]]()
 + :pencil2: [Un décodeur n bits](https://capytale2.ac-paris.fr/web/c/175d-5456718) [[Correction]]()
