@@ -119,3 +119,6 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [Un décodeur n bits](https://capytale2.ac-paris.fr/web/c/175d-5456718) [[Correction]]()
 + :pencil2: [Un demi-additionneur](https://capytale2.ac-paris.fr/web/c/e899-5456840) [[Correction]]()
 + :pencil2: [Un additionneur 1 bit complet](https://capytale2.ac-paris.fr/web/c/6269-5456968) [[Correction]]()
+
+## Séquence 5 : Parcours séquentiel d’un tableau
++ :books::pencil2: [Parcours séquentiel d’un tableau](https://capytale2.ac-paris.fr/web/c/4e59-5567272)
