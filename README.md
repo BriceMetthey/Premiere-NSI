@@ -118,7 +118,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :pencil2: [Circuits et logique booléenne](https://capytale2.ac-paris.fr/web/c/b41c-5476024) [[Correction]](https://capytale2.ac-paris.fr/web/c/24b5-5431103) :fire:
 + :pencil2: [Un décodeur n bits](https://capytale2.ac-paris.fr/web/c/175d-5456718) [[Correction]](https://capytale2.ac-paris.fr/web/c/95d9-5456621) :fire:
 + :pencil2: [Un demi-additionneur](https://capytale2.ac-paris.fr/web/c/e899-5456840) [[Correction]](https://capytale2.ac-paris.fr/web/c/226d-5456756) :fire:
-+ :pencil2: [Un additionneur 1 bit complet](https://capytale2.ac-paris.fr/web/c/6269-5456968) [[Correction]]()
++ :pencil2: [Un additionneur 1 bit complet](https://capytale2.ac-paris.fr/web/c/6269-5456968) [[Correction]](https://capytale2.ac-paris.fr/web/c/a527-5456864) :fire:
 
 ## Séquence 5 : Parcours séquentiel d’un tableau
 + :books::pencil2: [Parcours séquentiel d’un tableau](https://capytale2.ac-paris.fr/web/c/4e59-5567272)
