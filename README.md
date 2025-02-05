@@ -14,7 +14,7 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 + :children_crossing: [Préparation à l'évaluation n°1](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Pr%C3%A9paration_%C3%A9valuation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Correction_pr%C3%A9paration_%C3%A9valuation_1.pdf)
 + :children_crossing: [Evaluation n°1](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Evaluation_1.pdf) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Evaluation_1%20-%20Correction.pdf)
 + :children_crossing: Evaluation n°2 (Pronote) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Evaluation_2%20-%20Repr%C3%A9sentation%20des%20donn%C3%A9es%20-%20Correction.pdf)
-+ :children_crossing: Evaluation n°3 (Pronote) [[Correction]] (https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Evaluation_3%20-%20Architecture%20Machine%20-%20Correction.pdf) :fire:
++ :children_crossing: Evaluation n°3 (Pronote) [[Correction]](https://github.com/BriceMetthey/Premiere-NSI/blob/main/Evaluations/Evaluation_3%20-%20Architecture%20Machine%20-%20Correction.pdf) :fire:
 
 ## Séquence 1 : Constructions élémentaires
 
