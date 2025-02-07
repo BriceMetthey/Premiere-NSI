@@ -122,3 +122,4 @@ Lien vers le site : [https://bricemetthey.github.io/Premiere-NSI](https://bricem
 
 ## Séquence 5 : Parcours séquentiel d’un tableau
 + :books::pencil2: [Parcours séquentiel d’un tableau](https://capytale2.ac-paris.fr/web/c/4e59-5567272)
++ :books::pencil2: [Parcours séquentiels de tableau - Recherche d'un extremum](https://capytale2.ac-paris.fr/web/c/f48a-5622542)
